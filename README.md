@@ -5,7 +5,7 @@
 ## Abstract
 This repository contains the implementation and datasets for "ImprovMLCQ: Improving Machine Learning Code Quality Detection through Enhanced Feature Selection and Multi-label Classification". The project extends the MLCQ dataset with code smell detection using PMD, Organic, and Designite tools, implementing both Machine Learning and Deep Learning approaches for multi-label code smell classification.
 
-Access full paper [here](SBCARS_2025___ImprovMLCQ.pdf)
+Access full paper [here](https://www.researchgate.net/publication/395029168_ImprovMLCQ_A_Feature-Enriched_Dataset_for_Advancing_Code_Smell_Detection)
 
 ## Repository Structure
 
